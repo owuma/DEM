@@ -108,6 +108,5 @@ void Widget::setupProfilePlot()
 
     // Перерисовка
     ui->customPlot_widget->replot();
-    //ggggg
 }
 
